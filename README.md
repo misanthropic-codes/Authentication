@@ -1,6 +1,4 @@
-Here's a project description for your code that you can use for your GitHub repository's `README.md`:
 
----
 
 # Authentication Web Application
 
